@@ -1,0 +1,16 @@
+{
+  "name": "chat-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
